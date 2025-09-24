@@ -1,1 +1,2 @@
 FruitSaladApp is a Flutter-based application designed to provide a seamless experience for ordering the freshest fruit salad combos. Built from a Figma design, it features an attractive homepage with a fruit basket illustration, a clear call-to-action, and a user-friendly interface. The app aims to deliver the best and freshest fruit salads in town, making it easy for users to order their favorite combos.
+<img width="503" height="909" alt="image" src="https://github.com/user-attachments/assets/3dc84c62-a922-4287-a421-0670de520e69" />
