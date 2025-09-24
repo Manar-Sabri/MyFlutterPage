@@ -1,16 +1,1 @@
-# figma_first
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FruitSaladApp is a Flutter-based application designed to provide a seamless experience for ordering the freshest fruit salad combos. Built from a Figma design, it features an attractive homepage with a fruit basket illustration, a clear call-to-action, and a user-friendly interface. The app aims to deliver the best and freshest fruit salads in town, making it easy for users to order their favorite combos.
